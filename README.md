@@ -7,4 +7,5 @@ Version de unity : 2019.3.0f6
 Il y a seulement deux plugin à installer :
 
 1.Steam VR
+
 2.Pilote Leap Motion
