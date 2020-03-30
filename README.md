@@ -12,4 +12,4 @@ Il y a seulement deux plugin à installer :
 
 ### Prise en main
 
- Les tests sur la caméra VR n'ayant pas pu être fait jusqu'au bout, si il y a un problème un script de control de caméra est disponible dans le dossier script. Il suffit de l'ajouter sur la caméra pour la controler avec les touches ZQSDAE.
+ ~~ Les tests sur la caméra VR n'ayant pas pu être fait jusqu'au bout, si il y a un problème un script de control de caméra est disponible dans le dossier script. Il suffit de l'ajouter sur la caméra pour la controler avec les touches ZQSDAE.
