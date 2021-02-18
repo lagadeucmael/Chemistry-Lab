@@ -1,6 +1,6 @@
 # escape-labo
 
-Version de unity : 2019.3.0f6
+Version de unity : 2019.4.20f1
 
 ### Installation 
 
