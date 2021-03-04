@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class CountDown : MonoBehaviour
 {
-
+    public GameObject defeat;
     public static float timeLeft;
     public static float time;
     Text text;
@@ -15,7 +15,7 @@ public class CountDown : MonoBehaviour
     {
         text = GetComponent<Text>();
         text.text = "\n" + Mathf.Round(timeLeft);
-        time = 100;
+        time = 10;
         timeLeft = time;
     }
 
@@ -25,7 +25,7 @@ public class CountDown : MonoBehaviour
         if (timeLeft < 0)
         {
             text.text = "\n Time Over !!!";
-
+            defeat.SetActive(true);
             //Application.LoadLevel("gameOver");
         }
         else
