@@ -104,7 +104,7 @@ Transform:
   m_GameObject: {fileID: 112984}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -2.571, y: 0.811, z: 0}
-  m_LocalScale: {x: 3.5, y: 3.5, z: 3.5}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 4313401198512952}
   - {fileID: 4255870250515460}
@@ -369,7 +369,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 100
+  m_Text: " Can you \n\tsolve me?\n\n 1.  ?? + ?? \n  => CO2\n\n 2. \n"
 --- !u!114 &1462799176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -462,7 +462,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: '
 
-    Time left !!'
+    Zarbatos'
 --- !u!1 &1103862920389262
 GameObject:
   m_ObjectHideFlags: 0
@@ -1279,7 +1279,7 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
-        m_CallState: 2
+        m_CallState: 1
 --- !u!114 &3761888079196350381
 MonoBehaviour:
   m_ObjectHideFlags: 0

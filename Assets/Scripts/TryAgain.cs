@@ -7,5 +7,6 @@ public class TryAgain : MonoBehaviour
    public void restartGame()
     {
         SceneManager.LoadScene("laboScene");
+        Debug.Log("Hey");
     }
 }
