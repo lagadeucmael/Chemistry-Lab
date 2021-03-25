@@ -52,3 +52,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 .idea/
+Assets/SteamVR/Resources/SteamVR_Settings.asset.meta
+Assets/SteamVR/Resources/SteamVR_Settings.asset
